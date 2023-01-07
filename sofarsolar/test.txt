@@ -1,0 +1,49 @@
+2023-01-07 08:22:29,468 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:22:33,828 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:22:37,602 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:22:41,791 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:22:53,931 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:22:59,042 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:25:32,369 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:25:36,885 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:25:46,775 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:25:51,195 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:26:01,419 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:26:06,694 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:30:45,011 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:31:02,444 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:31:02,493 INFO [TcpProxy] Server started [0.0.0.0:10000]
+2023-01-07 08:31:02,525 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:31:02,525 INFO [MqttClient] Configuring Home Assistant
+2023-01-07 08:31:04,243 INFO [MqttClient] Configuring Home Assistant
+2023-01-07 08:31:05,991 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:31:07,185 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:31:07,247 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:31:08,319 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:31:08,377 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:31:09,450 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:31:09,514 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:31:10,597 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:33:53,065 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:34:08,152 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:34:15,422 INFO [FakeDNS] Entry:: dom.query. 60 IN A 192.168.0.212
+2023-01-07 08:34:15,470 INFO [TcpProxy] Server started [0.0.0.0:10000]
+2023-01-07 08:34:15,510 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:34:15,510 INFO [MqttClient] Configuring Home Assistant
+2023-01-07 08:34:17,178 INFO [MqttClient] Configuring Home Assistant
+2023-01-07 08:34:18,901 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:34:19,995 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:34:20,055 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:34:21,126 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:34:21,176 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:34:22,261 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:34:22,313 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:34:23,385 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:34:23,438 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:34:24,526 INFO [MqttClient] Connected with result code 0
+2023-01-07 08:34:24,606 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 08:34:25,710 INFO [MqttClient] Connected with result code 0
+2023-01-07 09:13:42,424 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 09:13:43,774 INFO [MqttClient] Connected with result code 0
+2023-01-07 11:24:41,416 WARNING [MqttClient] Unexpected MQTT disconnection. Will auto-reconnect
+2023-01-07 11:24:42,898 INFO [MqttClient] Connected with result code 0

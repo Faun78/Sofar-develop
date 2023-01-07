@@ -1,0 +1,6 @@
+.idea
+*.pyc
+venv/
+sofarsolar/inverter/config/config.ini
+*.log
+sofarsolar/inverter/config/ext.yaml
