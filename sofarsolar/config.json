@@ -1,6 +1,6 @@
 {
   "name": "SofarSolarMQTT",
-  "version": "1.0",
+  "version": "1.1",
   "slug": "sofarsolar_mqtt",
   "description": "SofarSolar WiFi Logger to MQTT",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
@@ -8,21 +8,21 @@
   "boot": "auto",
   "options": {
     "inverter": {
-      "name": "Inverter",
+      "name": "SofarMenic",
       "sn": "SF4ES00XXXXXXX",
       "manufacturer": "SofarSolar",
-      "model": "KTL-X",
+      "model": "2700TL-G3",
       "idle_time": 660
     },
     "fakedns": {
       "initial_domain": "data1.solarmanpv.com",
-      "target_ip": "192.168.1.2"
+      "target_ip": "192.168.0.221"
     },
     "log": {
       "log_level": "INFO"
     },
     "mqtt": {
-      "mqtt_host": "127.0.0.1",
+      "mqtt_host": "192.168.0.221",
       "mqtt_port": 1883,
       "mqtt_topic": "SofarSolar",
       "mqtt_username": "",
