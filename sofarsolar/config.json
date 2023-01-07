@@ -1,6 +1,6 @@
 {
   "name": "SofarSolarMQTT",
-  "version": "1.1",
+  "version": "1.2",
   "slug": "sofarsolar_mqtt",
   "description": "SofarSolar WiFi Logger to MQTT",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
@@ -16,13 +16,13 @@
     },
     "fakedns": {
       "initial_domain": "data1.solarmanpv.com",
-      "target_ip": "192.168.0.221"
+      "target_ip": "192.168.0.118"
     },
     "log": {
       "log_level": "INFO"
     },
     "mqtt": {
-      "mqtt_host": "192.168.0.221",
+      "mqtt_host": "192.168.0.118",
       "mqtt_port": 1883,
       "mqtt_topic": "SofarSolar",
       "mqtt_username": "",
@@ -58,7 +58,8 @@
   },
   "ports": {
     "10000/tcp": 10000,
-    "53/udp": 53
+    "53/udp": 53,
+    "5005/udp":5005
   }
 
 }
